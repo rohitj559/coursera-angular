@@ -4,8 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Create application
 
-`npm install @angular/cli --latest`
-`ng new conFusion`
+Step:1 - `npm install @angular/cli --latest`
+Step:2 - `ng new conFusion`
 
 ## Development server
 
